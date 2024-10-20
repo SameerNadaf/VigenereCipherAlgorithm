@@ -40,6 +40,6 @@ public class Decryption {
         String plainText = new String(outChars).toUpperCase();
 
         System.out.println();
-        System.out.println("The Encrypted message is : " + plainText);
+        System.out.println("The Decrypted message is : " + plainText);
     }
 }
